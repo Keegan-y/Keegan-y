@@ -1,10 +1,10 @@
 ### Hi there 👋
 🌱 I’m currently learning Microservices.
 <div align="right">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Keegan-y&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Keegan-y&show_icons=trueline_height=21&text_color=333&icon_color=4c71f2&bg_color=fffefe&theme=default" />
 </div>
 
-<!--
+<!--&hide_title=true&hide_border=true
 **Keegan-y/Keegan-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
