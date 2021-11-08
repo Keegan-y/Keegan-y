@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-    <img  src="https://github-profile-trophy.vercel.app/?username=sKeegan-y" />
+    <img  src="https://github-profile-trophy.vercel.app/?username=Keegan-y" />
 </div>
