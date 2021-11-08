@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-    <img src="![Metrics](https://metrics.lecoq.io/Keegan-y?template=classic&config.timezone=Asia%2FShanghai)">
+    <img src="https://metrics.lecoq.io/Keegan-y?template=classic&config.timezone=Asia%2FShanghai">
 </div>
