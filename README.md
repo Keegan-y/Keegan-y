@@ -25,3 +25,7 @@ Here are some ideas to get you started:
 <div align="center">
     <img  src="https://github-profile-trophy.vercel.app/?username=Keegan-y" />
 </div>
+
+<div align="center">
+    <img  src="https://visitor-badge.glitch.me/badge?page_id=Keegan-y" />
+</div>
