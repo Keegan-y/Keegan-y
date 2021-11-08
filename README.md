@@ -27,5 +27,9 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Keegan-y&theme=xcode" />
+</div>
+
+<div align="center">
     <img  src="https://visitor-badge.glitch.me/badge?page_id=Keegan-y" />
 </div>
