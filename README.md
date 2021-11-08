@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Metrics](https://metrics.lecoq.io/Keegan-y?template=classic&config.timezone=Asia%2FShanghai)
+<div align="center">
+    <img src="![Metrics](https://metrics.lecoq.io/Keegan-y?template=classic&config.timezone=Asia%2FShanghai)">
+</div>
